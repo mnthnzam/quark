@@ -1,0 +1,209 @@
+Zamstars / Crossover Weekly — Mon, Sep 21, 2026
+QUARK EXCERPT ONLY. Two passages: 1:31–3:18 and 16:41–56:30. Everything else on the call was Crossover work and is deliberately not in this repo. Machine transcript; names and numbers can be mis-heard.
+
+— 1:31–3:18 —
+
+1:31 - Vinodh Talapaneni
+I think we'll have multiple headline lines when we directly jump into the laundry list, Andrew. No, that's not the stuff. There was a Some minor updates on a Quark website, which is basically a partner network updates. So the pages look a bit off. I'm just handling the just update, but not worrying about how the format and all those stuff. So if we see these pages, some have a description, some of them don't have.
+
+ So there is no uniformity, just a kind of a listicle. It's not so great looking experience, but it is functional and information is always available.
+
+2:33 - Andrew Allen
+Yeah, I thank you for handling that. I want to talk about Cork a little bit today. I think maybe we should do the laundry list. First, but I want to spend at least five minutes, five to ten minutes, I think, worth of time discussing cork and filling you in on some stuff that's happening there. I'm just debating, I think if I do it now, it'll take too long and it'll derail the laundry list. So let's attempt to do what we haven't done for the last few weeks and do a quick laundry list.
+
+ But then we'll return and probably start with Quark, I think. Just probably do Quark first before the other stuff.
+
+— 16:41–56:30 —
+
+16:41 - Andrew Allen
+Nice, nice work, team. That's a long list. Let's dive in then. I would like to start with Quark because it's otherwise hard to come back around to. So some context for you. I guess you would have seen some of it actually, Vinodh, now that you're in the thread with stuff. So you would have seen that I've been chasing them. Them to say like, hey, what's coming up? What's happening with the release or what's going on?
+
+ They've come back and said that the release is nearly ready. Within the next 24 hours, I should finally receive details on like, well, what is it? What's in the release? What will the product do? Like, what's the message? But they want to release it by the end of November, by the end of September, rather, which is in nine days. So I have said to them two things timing-wise. First thing I said is: I'm taking by the end of September to mean on exactly the 30th of September and not earlier.
+
+ And secondly, I set a deadline of today, Monday the 21st, for them to answer a bunch of questions, many of which they have, but also give us the list of what does the product do? What is it? What's the message? And they've said that they plan to. They expect to get us that today. They're going to try and honor that deadline. So that then would start a ticking clock where we have the next nine days to be ready to deploy a new release.
+
+ Now, this is something that the old team, which, as you know, had like a dozen people, used to spend like four months on. So we're like a handful of people working part-time on it with nine days. Nine days including today. So that's the headline. The logical next steps from there, just firstly, just talking scope and approach and like our processes. First would be: I am expecting, I am planning for the next two weeks of my life and therefore our lives to be more cork heavy than we're used to.
+
+ So I'm expecting. That I'll have to have some difficult conversations with Trago and others and say, I'm sorry, I can't finish. Like there's campus outreach version two. There's some of the other stuff that we're working on here, which matters and needs to happen. But it's been a while since Quark has been the noisy baby. It's been in the background for some months now. And so it's appropriate for them to have some time in the foreground.
+
+ So, in my head, I'm expecting that we're just going to have to prioritize Quark higher for the next couple of weeks. But you'll see, you'll learn what I learned when they come through. With them, I've experienced now they might tell us tomorrow, like, okay, well, we wanted to play Thursday. They also might, you know, we might get to the 30th and it might not be ready, and they might need a few, two more weeks.
+
+ So, it's like, it's very difficult to predict with them. So, then, if we think about the specifics of it, two things I've already begun working on. I'm mentioning it to you because it's inevitable that I'm gonna have to ask for your help. And any pieces of this that you hear where you're like, oh, I could already jump onto that, please feel free. So the two most obvious things are the website and emails.
+
+ So, I had a big chat with Carla about this on Friday. She is beginning some scoping of the website. I think it also would benefit you to do a little bit of the same, but I've made her the captain of figuring out what lives where on the website. And I'm the captain of emails. Now, I haven't really started it yet because had some deadlines to hit for Dragos. But from tomorrow, after the Dragosh call, I'm hoping that I can make my top priority is by the end of the day tomorrow.
+
+ I'm hoping to have gone through their Pardot instance, which is their email system. It's very much basically Marketing Cloud, and gone through and pulled all of their templates and stuff. For what they did with the last release, and gone, like, okay, how many emails to which audiences? And I'm thinking it's gonna be hard because I'm expecting that of the audience selection criteria and stuff would have broken.
+
+ There will be like some attribute that nobody's regenerated for six months that used to be used to get like the number of this leader, that leader, because I know that there were lots of people working behind the ends to prepare this stuff. So I'm expecting it won't just be as easy as automating like click our fingers and be done. I have asked that team if they could get a version of next that would make our lives so much easier because we would be able to go, like, okay, well, what is there?
+
+ And let's try and replicate this, or worst-case scenario, putting in some kind of a ticket for them to be like, Hey, we need these segments, and here's how you should do it, and you know, press the button. But, um, so. I've asked Carla to take the lead on the website and I will take the lead on emails because both will be timely. For the website, the obvious things are: there's the home page, there's the Quark Express landing page under products, and like, and then there, yeah, Quark Express.
+
+ But then there's like, yeah, there's like what's new in QuarkExpress 2026. There's like a lot of other types of pages that probably need of a look at. So it's just QuarkExpress is the new release. But they just, they have tons of pages. Now, some of these pages we might decide to get rid of We can just take this as an opportunity to clean it up and get rid of some. Others we will obviously update in a minimal way and just like change 2026 to 2027 and simple stuff like that.
+
+ The flagship pages, like I think, you know, a home page slider and like the product page, put more work into once we really know what the message is that we get back from the team. So that will inform this stuff. And that would definitely be an area where I would love some input from Manthan and Hadi and get a little bit of of design work. You can see, like, they've got little videos for each of their features.
+
+ I don't even think we need that. We don't need a video for every feature. That's kind of over the top. But the equivalent of, like, okay, if they say this is the feature, we probably don't have a it. So figuring out, like, okay, what can we show for this thing, this font pairing, this or that? We possibly will actually need to ask. The product team for we need screenshots of these five things, which are going to be da-da-da-da.
+
+ So, figuring out how do we move that forward? How are we going to populate this? Are we like see everything new in ParkExpress 2026? You know, and then like watch video. Like, are we going to get rid of the watch video button? Are we going to build a one-minute video? Like, I could ask. Arjun a little bit to help from a social front. Maybe he could put a bit of a video together, but it's kind of gonna be all hands on deck going.
+
+ What does it look like for us to actually deploy a release in a small number of days? And the reason I'm taking email as my focus is because I actually think email is gonna be the hardest. I think it's gonna be harder than this. So I'll be involved in this, but I'm gonna focus on email. Carla's gonna step up on this. And then you guys will need to be as proactive as, yeah, see, like there's stuff that's just broken.
+
+ We'll need you to be proactive, kind of between what Carla's doing and what I'm doing, and beginning to think about it for yourselves as well. There are definitely things where we don't need to wait for Carla to point something out. There's stuff that we could just figure out: like, okay, where does that come from Should we fix it? Should we delete it? If they're all reviews that are old, where would we get new reviews from if it's all outdated, should we drop it?
+
+ I don't know. But those are decisions that normally you wouldn't have to make. It would be a decision made by the client, but this is unusual in the sense that. It's a new acquisition, and I have no more context than you have, right? So it's just all of us making judgments on what we think makes sense with the options available to us. Because if we try and keep every part of the website that exists up to date, we will fail, right?
+
+ That's clearly impractical. So it's okay for us to choose: okay, we're simplify this. We're going to get rid of this section, this section, this section. We're going to focus on updating that thing that's important. But we do get to simplify. Now, the thing that I haven't mentioned that's definitely going to involve you, Vinodh, is landing pages and forms. So, two things that we know are true. First is the old team used to maintain a whole lot of dedicated landing pages for a whole bunch of their campaigns.
+
+ And it seems as though they did that probably to populate remarketing audiences. Now, I am going to propose a remarketing to website visitors campaign. So you and I will need to decide what that actually means. Like, would we be capable of facilitating that? Presumably, yes, but it would have knock-on effects of would we would like, Would we need to maintain a separate landing page for each audience that we want to populate a different campaign message to?
+
+ Or can we hopefully do it a little bit smarter and maybe we can have a single landing page, but drop them in with a UTM parameter or something and find some other way for the string so we don't need to have 11 pages on one page, you one page, but then a few versions and you know, populate stuff. So there's going to be some stuff on that front. Thinking about like ideally, we don't have to have a different landing page for every different audience.
+
+ So that's why my top priority is the email bit because that's going to inform a lot of those next things. I need to come back with: here's my list of these are the audience, this is the creative, here's the HTML, here's the landing page, and we'll have to remap that over and make sense of it. So I'll try and traffic light. And I'll be like, okay, this one went to these people. We're going to do that again.
+
+ This one went to those people. We're not going to do that one. This one went to its random ass page. We're just going to send it to the main page. So I'm going to have a bunch of work trying to figure that out, but it will definitely involve you as I figure it out because there will be stuff that needs to be updated. Now, one of the good things is that the email, like publishing HTML, updating HTML used to involve you guys a lot.
+
+ I'm hopeful that I won't need as much help with that as than usual because AI has gotten so much better at it. So we can just upload the AI and change the version and stuff. The thing that might be worth a bit of your time would be kind of similar to the, in fact, here's, I'm going to request for Manthan and Hadi. I want you to begin thinking about, you know, how I was talking about the product page and like, some of those hero updates, there it probably does make sense for you to think about like an announcement email.
+
+ Um, and just obviously, today you don't know the details of the product message, but you do know kind of the brand and like roughly what it might look like, You will have more information soon because I will have all of the HTML from the previous announcements, and we will have from the product team what is the message, what is it going to do. But you've got a non-zero amount that you could begin with, just starting a bit of a shell of kind of roughly what are the components, what might it look like, and then by the time I have more for you, like here's what it was last year, here's the product, be in a position to, you know, within like a day or two, be able to go, like, here is.
+
+ One shell email, and then I could use AI for like all the others. And so, just helping to get like one really good email would be smart. And the last thing I want to mention on that is forms. So, I don't really know how the forms work on the website. I know you know more than I do on that. There are some forms, but the main one that's going to be relevant is. There is a form somewhere that is used for people upgrading.
+
+ So they had like an old end-of-life version of the product or something, and they get a message being like, Hey, if you upgrade to the new version, you only have to pay this much. And so they don't have to like buy the product at the off-the-shelf price. They pay like a particular amount, and it's like an upgrade license. So they get the new release. I am hoping that that will make more sense once I find the emails because I'm hoping I will find those emails.
+
+ And I'll be able to be like this is the page that it goes to, this is the pricing and so on. And I'm hoping it will become clear. As at right now, I don't really know where to look from the website end. So I'm hoping that the email will clarify some of that. But I am expecting that there will be some stuff like that, which is kind of related to forms, like it's. A product update where it's like, yeah, you pay this amount and you get the new version and stuff.
+
+ So I think that's why I'm focusing on email. I think the email, whatever I find in emails, I think will unlock several of these things. So I'm briefing you now because we're chatting now, and this is going to come in fast. And so I'm just telling you what I know today. There will be more. We will all know more soon. But the headline is that Quark is going to have to be a higher priority for all of us in the next week or two than normal.
+
+ And Crossover tasks will have to fall in line around that. So I think it benefits us all to begin trying to prepare the things that we can prepare that are predictable. That aren't blocked by the stuff that we don't have yet. And then just, you know, communicating with each other as we find things, as we remember things, realize things, and just try to do our best to hold hands and make a list of all the stuff that's going to have to happen.
+
+ I do have another Quark topic that's only semi-related. I see you're in Google Ads. Maybe you want to talk about that a little bit. Separate from Google Ads and the advertising side of things, is there anything you want to discuss, any of you, in relation to just what I've said so far?
+
+32:05 - Vinodh Talapaneni
+No, Andrew, I think we're irrelevant. Do we have access to Marketing Cloud, Andrew?
+
+32:11 - Andrew Allen
+We have access to yes, short answer, yes. Long answer, it's Pardot, which is kind of part of Marketing Cloud. I get emails from Marketing Cloud, so it's like, literally, it reminds me exactly of Marketing Cloud in all of the bad ways. Yeah, directly through Salesforce, and there's a particular Salesforce login. I'm just going to check as well. Um, my access has fallen off twice at different times, and because this is a priority for me tomorrow, you've just made me realize if I can't get into right now, I would like to um.
+
+
+
+32:50 - Vinodh Talapaneni
+I would like to figure that out now so I can yeah they they use Salesforce extensionally even the chart the whenever somebody charts from the website they go to directly Salesforce so that's an extensive they use a Salesforce so yeah yeah exactly So I'm logging in now, and I'll see if I can still get in.
+
+33:17 - Andrew Allen
+Yes, I'm in. So it's through Salesforce. It's a shared account with a shared authenticator app login. So the good news is. I might be able to share the same login with you. No one's going mind you having it. I have asked to get like a marketing login because it's like the renewal team one, and it's sort of a bit silly for none of us to have one. And I suspect this is the first time we are really going to be in there and doing stuff.
+
+ So let me begin. The task of going in here, going into Pardot, seeing what I can find, extracting what I can, getting the HTML, the criteria, and everything. It is highly likely that I will need to let you in there, but at least if I scope it first, so that I kind of have a sense of what is there, like how many emails, how many lists, what looks like it might work, what looks broken. So I'm hoping to have that.
+
+ Tomorrow, that's my task tomorrow.
+
+34:26 - Vinodh Talapaneni
+True, my suspect is what if the uh data sync is broken, so that's a that's a main thing we need to check. So, marketing cloud and uh Salesforce, so there is a like the way we have a connector here, so they also have a query method. So, um, I'm hopefully that the entire uh customers, data, everything is getting synced with Marketing Cloud. And from there, we will be able to find out who's using that.
+
+
+
+34:58 - Andrew Allen
+I'm pretty sure that it does. I know that the number of active customers has increased a little bit and stuff like this that would indicate that it is working. I know that right after the acquisition, there was a thing where they had to purge some records for the same reasons that we used to have that issue on Marketing Cloud. They still can't automate any of it. And who would you like to delete? And I don't know.
+
+ I've been here five minutes. Delete the oldest ones, you know, delete the ones that are the least useful. Delete the people that have never opened anything for the longest. I don't know. You tell me. Anyway, I will anticipate I probably will need to share that login with you or obtain my own or something. For now, you can start on this side. But I'm hoping as soon as this time tomorrow to have more.
+
+ Well, obviously, there'll be more on the messaging front from Bogdan, but I'm also hoping that I'll be able to say, it's this many emails to these people, and here's what I've found so far. And either I think I need you already, here's the login, I'm sharing it, or I think I'm kind of okay. This is what I found. So there will be. There will definitely be more to this. Even just looking like, see they've got, like, what's new in Park Express, like that little video and stuff.
+
+ There's just a, they make a lot of things. They make, we will find so much. There's so many pages and videos and things. And so we will have to, we will have to figure out how to make sense of what we should do. We do not have to do everything that the other team used to do. There might be things where we decide: okay, we're gonna switch that off. We don't think it's necessary. Or those are three different videos, but they're on different pages.
+
+ We're gonna use the same one and stuff like this. I also can ask Arjun to make a video for us. That'd be quite a good use of his energy once we have the messaging. Between us, we'll figure it out. But I know it's definitely going to end up needing help from you guys, needing some Zamstar's input. And this is as much as I can foresee for right now. So there's two more pieces to it. Yeah.
+
+37:26 - Vinodh Talapaneni
+Yeah. And the second topic, which you spoke about, is a forms. I haven't seen a forms in this website. Anywhere, like a contact us form, request for a demo, kind of a stuff. So, this is like a, these are the kind of a form I have seen. This is one of the forms I have seen. And this is not as part of the website, it's like directly pushing into some other domain, which is content that works. So, even the form lives in this.
+
+ So the website doesn't have any control on that form because it directly pushes to other domain.
+
+38:05 - Andrew Allen
+Yeah, that's probably the have you heard of Cleverbridge yet? Cleverbridge are the finance portal for Quark Express. They process all the payments and they have a marketing add-on for all of the Loverbridge, Cleverbridge. Clever C L E Cleverbridge. They are the payment provider, but they also have marketing add-ons that Corp uses that handle all of the automated emails. So emails like, thank you, your trial has started, or like, here's your download, or your, you know, your plan renews soon, anything like that, or like, oh, you know, it's your last day of the trial, buy the product, here's the price, like all of that.
+
+ That's part of why we've been able to run on a skeleton marketing operations. Because when I looked at it all, I was like, well, that's the stuff that probably would. Take the most work, and it's already happening. So, in my plan, I wrote: as long as that stuff can keep rolling without any action from me, if I do nothing, that all keeps going and it's correct and requires no updates, then that's fine.
+
+ But if we needed to migrate it into customer I/O and like get our heads around those emails and make a whole bunch of updates, that would be different. Now, it is likely, so I pushed. Earlier, a few months ago, pushed back on some requests that would have involved that. I think you were part of that at that time. And so I've reminded them, and now Bogdan has said to Ivan, like, oh, yeah, you're right.
+
+ Like, we should hold the Clever Bridge about all of those emails. So, all the automated emails where it's like, you've got a trial, go here, do this, do that. Like, they might need us to provide them some assets or something. But mostly they're just going to be updating 25 to 26 and stuff like that. But yeah, anything like this where it says like the versions that exist. So I think that it would be really smart for you guys to get someone to do an audit and start writing lists, making like a sheet, a Google sheet, not a Word doc.
+
+ That's got like, okay, this is the page, this is the update, you know, this is the type of thing, this is the whatever. Just starting to audit and try to make a list. You also could use Claude because of the WordPress integration, the MCP connector. You might be able to do something where it scrapes it or something. But one way or the other, we should begin trying to populate a list. Now, of course, I've mentioned already that I've asked Carla to do the same.
+
+ We will obviously have to merge the lists to have one source of truth, but I think it benefits us to all be beginning this task. So, I'm going to begin the email task. I am not going to make the list of the website yet, but if I think it would benefit you to start a really granular list thinking about forms and stuff like that, what can you find? Little things on little, like, buttons on pages and stuff like the 26, 25 thing you just saw, like that type of thing.
+
+ Let's just start to wrap our heads around like what exists and what choices we will need to make for, like, I think it's kind of like traffic light. In my head, it's a traffic light. There would be like green light would be like easy updates, where it's just like, yeah, we just changed the year. You know, we click our fingers and it's done. Easy updates, green light. Yellow light would be like things that need a bit of a bit more attention, where it's like, yeah, okay, there's a video.
+
+ We're going to need to swap it out to a new video link, and we are, you know, there's a list of features and benefits. We're going to write our list of features and benefits. And then that's one of the places that we'll need to go. That kind of thing. So we'll write like some master things. There's like a master announcement email, a master list of features and benefits, master list of whatever. Like we'll have sort of some stuff that we begin and we get it right.
+
+ And then we sort of fold that out to all the yellow places. They're the things that get updated. And then I'd probably have the orange would be things that we think we can probably get rid of or simplify, you know, where we can just sort of eliminate the problem a little bit, but we need to talk about it and think about it. And then red, I think, would be things that are. Kind of no-brainers, like just not worth it.
+
+ Like, oh, we don't need that. We can definitely get rid of that page. That's outdated. It's maybe it's stuff for like stuff from last year that nothing points to, where it's like, not even related to this release. It's like, just get rid of it. And that would be like the red list, you So that type of thing where it's like, we're, it's a, it's an audit so that we can start to wrap our heads around what are our tasks and start making it real.
+
+ Because it's not just going to be the website, there's also going to be email stuff. And I will try and handle as much of that as I can. But ultimately, we're on the hook for doing all of the certainly all the green things, making the best we can out of the yellow things, the things that require a bit of attention, and removing the no-brainer stuff. Some of these things we might even realize we can do early.
+
+ Some of the things where it's like, okay, this thing is broken. You found those reviews and they were just broken. We could just switch that module off now or figure out where it comes from and update it if it's easy. But some of that stuff we can just kind of begin doing. But the more that we can. Ourselves, the better our lives will be because this is too complicated to expect that they will give us a list of the type of granularity that's helpful.
+
+ If you recall, like with the support update thing that they did, they gave us documents like, go here, change this to that. Like, it's all that kind of stuff. That kind of granularity will need to exist somewhere, but I don't think. We can't expect it from anyone else. We have to kind of figure, we have to do our best to make it ourselves and at least from that figure out what are the things that we need to ask them for that we don't have or a decision that's needed.
+
+ You'll have stuff that you're escalating to me where you're like, I think we should update this or I think we should get rid of this or I don't know what to do here. But, you know, even then, there will be a whole lot of stuff that isn't that because I'm. Very comfortable for you to do the logical thing. There's a lot of places where it's just add another, add another year, click to the thing. Like, cool.
+
+ Okay. So the last two pieces of this: one is I have not, we started to talk about it before a little bit, and you added, um, you opened Google Ads. So I can tell you that I am. Expecting to suggest that we do invest some amount of dollars into remarketing to site visitors. I have not gotten further than that yet. So I would like your help to make sure that I. Am not making dumb choices. Like, if we realize, oh, they're not even set up for that, like everything broke, we don't have the right access.
+
+ Like, I know, like, you're in GTM, you're in Google Ads, you're in WordPress. I'm expecting that that's not an over-promise for that to be possible. And we would have to do the work of coming up with what is the message and so on. But we'll have our features and benefits of the release and stuff. We'll have our audiences from emails. And so on, it should kind of be a natural offshoot of that. Once I've got, like, these are the different versions, these are the messages, we can kind of do it and theoretically start spending a little bit on remarketing.
+
+ I would like your, I need your help to make sure that they are equipped to still do it. So we wouldn't be like, oh, no, it's not going to work because we would need to load this DNS file on the host, it's missing. You know, GTM can't recognize it, can't deploy it. Like, if we can see, like, oh, we wouldn't be able to deploy it because of such, you know, this reason or that reason, we should try and identify those things and fix them now if we can.
+
+ And then, secondly, what I mentioned before about the landing pages, where my intention would be that we don't have a thousand pages like they used to. I think that was really impractical. We're sending people pretty much to a smaller list of pages. But I would need to know that we can still facilitate what we want. But this will make more sense once I've done the email piece because it kind of flows through from there.
+
+ Maybe I'll be able to simplify it enough that we don't have that many different audiences. You know, maybe it is just kind of one campaign. There's one remarketing to ParkExpress. You know, lead gen, like I want to simplify this. So if I can do that, I will. But I know that everything with this company gets complicated when we look at it, especially considering we've got the people that need to upgrade.
+
+ Where we've got the people that the message would be buy the product. Then we've got where the message would be like, upgrade your no-longer serviced product. We know those are a bit different. We also know they've got like five different currencies. So there's like, there's stuff there that needs to be figured out. So I'm hoping that it will make more sense once I have figured out the emails. But getting a bit of attention to this with the expectation, just assume that I'm going say, yes, we're going to run some remarketing ads.
+
+ And, Zamstars will help me deploy those. And assume that that is going to happen. And start to figure out what the first questions would be or the blockers or stuff. They will exist. We just need to begin crossing that bridge now before it blocks us later. And then the last, I don't know, by the way, about other tactics. I'm not worrying about like social campaigns or anything like that. I'm just thinking about remarketing.
+
+ We may run some remarketing on social, but I can have Arjun help with that. Because he makes the organic social content. So, we could have him populate a bucket of essentially ads and then they get promoted to the same audience list. Actually, this is something we should talk about: they've got all of the different currency things. We do need to figure out how that's going to work. I don't know off the top of my head.
+
+ If that is variable by IP, or if that is totally independent pages and really bad, if it can be a bit more dynamic and you can just click, it's one page, but you can click through the currencies. Like, I don't know what we should do on that front. But I am on board with simplifying it if we think it's overcomplicated. This could be the time for us to merge some things and make our lives a bit easier.
+
+ So, yeah, we're starting to scratch the the iceberg, right? There's going to be this, hence, my headline being: this will be heavy in the next couple of weeks, be spending much more time on Quark than usual, and we just need to be ready for that, be proactive with that, and move these things as efficiently as we can. Because what we can't have happen is that either A they meet the deadline that I set, which was today, and then we aren't ready by the 30th.
+
+ We can't have that happen. We could, we, you know, it's not the end of the world if we slightly miss something, or, you know, there's a little bit more that we have to do, but we got really far down the list, you know, and there's some like really minor pages that we're still tweaking. But I can't, we can't have a situation where we block the deployment, it's ready, and we're not because we can't run the campaign.
+
+ I can't send the emails, or we can't. Populate the lists, or you know, we haven't finished the updates on the important pages that clearly need it. We've missed important things. We can't have that happen if they hit the deadline. And then beyond that, it's really just that we can't have like major stuff ups where we launch on time, but we missed things that were. Predictable, where like the email goes out and it points to a page, and you go to that page, and there's stuff on the page that's broken or wrong, or whatever.
+
+ So, you know, we kind of need to audit the path and try to make sense of it without driving ourselves insane and prioritize the things that have to happen compared to the things that are easy enough to just do, compared to the things where we have to make a decision and, you know, try and make sense of those. So, this is you know, it's going to be a project that needs some prioritizing and some triage.
+
+ I will do it, I will help with as much of that as I can. I will not be able to bring everything to you. Like, we have to move faster than that. So, that's why I'm approaching you in this way. We'll have to work together on it. I will. Be in the trenches with you, trying to audit things, find things, make logical choices that make our lives easier. But we'll all have to be involved. So I think you've got a fair idea of a bunch of the technical things that are going to be needed.
+
+ Munching and hard the design front, I've specifically said I want from you some. I want you to be thinking about design for the main product page, maybe for the homepage, a slider. It can be very similar: homepage slider, main product page, and the email. Just thinking about the shell of it, keeping in mind that we don't want to reinvent the wheel. We've got a thousand things to update. So, on Crossover, I'm more inclined to be pushing the boat out and trying to make things different.
+
+ On this, the easier it is to just say yes, the better. So, trying to keep it within the types of templates they have, the types of things that we know are already supported. Your starting point is like a version of what's already there. And then, where you can just, you know, use HTML to make something a bit cooler or better, I'll be happy about that. But I would rather have the new version of what's there than have you overshoot and try and make it really awesome and do heaps of stuff that wasn't essential, but then we missed you know the things that had to happen.
+
+ So, like the nuts and bolts on this matter more than the pretty picture element. So, I don't want to focus too hard on what it looks like, It needs it's got to be about the substance, you know, what's the what are the words, what are the messages? And so we're not, it's not like a full redesign in the sense of like what you would do from an open page. Like we know we've got a really fast deadline.
+
+ So it's got to be, you know, like simple, the simple version of this. Cool. The last thing to say on Quark Express is revealed when you hover over products. So the team did something without telling me on the right there. See how it says infographics logo? And if you click that for me.
+
+54:05 - Vinodh Talapaneni
+Yeah, it's redirecting back to the block.com.
+
+54:08 - Andrew Allen
+Was it you that told me this? I'm trying to remember how I learned. It was you. Yeah, so thank you, firstly, for noticing it. I would have seen it by now myself, but you drew it to my attention first. I told them, and they've confirmed they've gotten rid of infographics. So that link, the dead link, just needs to come out of the menu. I would ideally like to just, can you remove it today? Just because it can just come out.
+
+
+
+54:38 - Vinodh Talapaneni
+Yeah. I'll do it in our header and footer, both places.
+
+54:42 - Unidentified Speaker
+Yeah.
+
+54:43 - Unidentified Speaker
+Yeah.
+
+54:44 - Andrew Allen
+So just take those out. I am quite sure we're going to find other places where it talks about that product, other things, but just that as a starting point. I don't want to delete those pages from existing because I think I'm interested in some sort of a message around. By the way, at one point I changed some of those like open positions and things. Some of them I changed to point to Crossover. But I think, where was I getting it?
+
+ Oh, I could see a world in which some of the infographics function might have been folded into the new release. Maybe part of the features and benefits of like, what can it do? And you can make infographics and stuff like that might be part of our story. So some of what's in there might become things that we use. And it might become like an email where I'm like, yeah, we're going to email all the people that.
+
+ Just, you know, had this product that we've just totally ditched. Because if I, if I didn't know that this product was getting sunset, I'm quite sure they haven't like emailed users or anything. Like, it's bizarre to me. They just switched it off and created a deadlink on the website without communicating with anybody. So it's quite extraordinary. It's quite extraordinary. So, anyway, that's what I know about that.
+
+ They also, I asked about Quark layout as well. The good thing is, Quark layout was thing. I think they were preparing to announce it. There's not, we had like social handles reserved and stuff, but they are, it wasn't like in there. Um, so I don't think there'll be any actions on that. Anyway, we've got obviously a bunch of other topics to talk about. So let's move on from Quark and get into Crossover.
