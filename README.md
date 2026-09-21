@@ -21,7 +21,7 @@ Owner: Manthan Gohil. Working with: Vinodh Talapaneni (site, GTM, Ads, forms), H
 
 ## How to run it
 
-Nothing to build or install. Start a session with **catchup**, end with **handoff**, say **decision** the moment a real choice is made. Git is in **terminal mode**: the agent hands you git blocks, you run them and paste the output back.
+Nothing to build or install. Run sessions from the **Crossover** Claude project with this folder connected — not CISCO, where it was opened by mistake. Start a session with **catchup**, end with **handoff**, say **decision** the moment a real choice is made. Git is in **terminal mode**: the agent hands you git blocks, you run them and paste the output back.
 
 New inputs — Bogdan's messaging, Andrew's Pardot export, email HTML — go in `sources/` as `YYYY-MM-DD_<what>.<ext>`.
 

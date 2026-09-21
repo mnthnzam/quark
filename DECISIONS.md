@@ -2,6 +2,12 @@
 
 Append-only, newest at top. Bodies are never edited; the only change to a past entry is a status line at its top. No entry without a real rejected alternative. Tags: `[stack] [data] [auth] [ui] [infra] [process] [scope]`.
 
+## 2026-09-21 [process] — Quark sessions run from the Crossover Claude project, not CISCO
+**Context:** The work was opened from the CISCO project by mistake. Quark comes through Andrew, on the same weekly call and with the same Zamstars team as Crossover.
+**Chose:** Sessions attach to the Crossover Claude project with this folder connected. This repo stays standalone. All Quark traces were removed from the CISCO folder and the CISCO Claude project.
+**Rejected:** Moving this folder inside the local Crossover folder — a nested repo, or Quark Software's files in Crossover's git history; the same problem the own-repo decision solved.
+**Revisit if:** Quark work ends, or Andrew's two clients are ever merged into one engagement.
+
 ## 2026-09-21 [ui] — Homepage release slide uses QuarkXPress imagery, not the company hero's
 **Context:** Today's homepage hero is company-level: Quark logo, two people with laptops, three products in the copy. The release slide becomes slide 1 of a two-slide slider.
 **Chose:** Slide 1 carries the QuarkXPress logo and the product page's model, so it reads as QuarkXPress at a glance. Today's hero becomes slide 2, unchanged.
