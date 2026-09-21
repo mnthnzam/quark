@@ -25,7 +25,7 @@ Brief: homepage slider, main product page, announcement email. Shell now, fill w
 
 | ID | Work | Owner | Status | Blocked by | Src |
 |---|---|---|---|---|---|
-| B-01 | **Granular traffic-light audit in a Google Sheet** — page, item, change, type, light. File: `audit/site-audit.csv`. Could be driven through the WordPress MCP connector. | Zamstars (unassigned) | doing — 68 rows in `audit/site-audit.csv`, ~45 pages read | — | call |
+| B-01 | **Granular traffic-light audit in a Google Sheet** — page, item, change, type, light. File: `audit/site-audit.csv`. Could be driven through the WordPress MCP connector. | Zamstars (unassigned) | doing — 71 rows in `audit/site-audit.csv` + Google Sheet (link in STATE), ~45 pages read, 18 rows verified live 21 Sep | — | call |
 | B-02 | Merge Zamstars' list with Carla's into one source of truth. | Carla + Zamstars | open | B-01 | call |
 | B-03 | **Green sweep**: year/version swaps across pages, menus, buttons, PDF links. Only after the release name is known. | Vinodh | blocked | MSG (name) | call |
 | B-04 | Flagship updates: homepage, `/products/quarkxpress`, What's-new page. Implements A-02/A-03. | Vinodh + design | blocked | MSG | call |

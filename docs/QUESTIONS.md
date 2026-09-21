@@ -11,7 +11,7 @@ Full list. The three that matter most this week are mirrored in `STATE.md`. Work
 | Q-04 | Where is the upgrade form / upgrade purchase path for end-of-life version holders, and what's the upgrade price? | Andrew (Pardot), Vinodh, Quark | C-06, D-03 | open |
 | Q-05 | How are the five currencies served? Can it be simplified? | Vinodh, Cleverbridge | D-05, E-02 | partly answered 21 Sep: one URL, price localised to visitor (₹ seen in capture). Mechanism unconfirmed |
 | Q-06 | Keep the "Watch video" button? If yes, what plays? | Andrew, after design recommends | A-05 | open |
-| Q-07 | Reviews: fix the embeds, re-source from G2/Capterra, or drop? | Andrew | B-06 | open — embeds confirmed dead (DNS error on gartner CDN host) |
+| Q-07 | Reviews: fix the embeds, re-source from G2/Capterra, or drop? | Andrew | B-06 | open — embeds confirmed dead (host does not resolve from two networks). Candidate answer: reuse the plain-text Capterra 2025 quotes block from `/request-previous-version` (QA-070) |
 | Q-08 | Who owns content.quark.com (gated PDFs, forms, the comparison + What's-New PDFs)? Who updates those for the release? | Quark | B-05, D-04 | open |
 | Q-09 | Do Pardot audiences still resolve? Is the Salesforce sync healthy? | Andrew, Vinodh | C-02, C-03 | open |
 | Q-10 | Does `x-campaign=26AprilPromo` on shop buttons affect price or only tracking? | Vinodh, Cleverbridge | B-12 | open |
